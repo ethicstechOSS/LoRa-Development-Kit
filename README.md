@@ -1,4 +1,4 @@
-**Ethicstech LoRa Development Kit 1.1**
+#Ethicstech LoRa Development Kit 1.1
 
 Ethicstech board is working with Arduino zero bootloader by default or if you want to use adafruit feather bootloader, download the bootloader using the links below and follow the procedure to flash the bootloader is given below.
 
@@ -21,7 +21,7 @@ https://github.com/PaulStoffregen/RadioHead
 Download our getting started Transmitter & Receiver program.
 
 Before you run your program follow our instructions.
-- Here the CS pin - 5, Which is specefic to ethicstech board. In case of other boards change the CS pin based on your schematics. 
+Here the CS pin - 5, Which is specefic to ethicstech board. In case of other boards change the CS pin based on your schematics. 
 
     #define RFM95_CS 5 //nss pin 
     #define RFM95_RST 9 
