@@ -11,7 +11,7 @@ https://github.com/adafruit/Adafruit-Feather-M0-Basic-Proto-PCB
 3. Link with procedure to flash your own bootloader
 https://learn.adafruit.com/proper-step-debugging-atsamd21-arduino-zero-m0/restoring-bootloader
 
-NOTE : You required programmer to flash your bootloader.
+NOTE : You dont need to flash the bootloader. The board already flashed with working bootloader. You required programmer in case you want to reflash bootloader.
 
 **LoRa Libraries**
 We are using Radio Head library in our SDK.
